@@ -5,4 +5,4 @@ A single repository to keep all my learnings and experiments in Mechanistic Inte
 This is the beginning of my journy of deep dive into mechanistic interpretability, or `mech interp` for short. This is a relatively new topic which was introduced in 2020 and gained momentum after that. The fundamental idea of looking and interpreting LLMs (typically any model we call a black box as of now) on a fundamental scale and trying to figure out its inner workings is both pretty challenging and exciting. We will introduce the topics and any experiments related to them here on the go.
 
 
-The current setup of repository is present in the [logbook.md](https://github.com/ialok00001/Mech_Interp_exp/logbook.md) file, which will always be kept upto date.
+The current setup of repository is present in the [logbook.md](https://github.com/ialok00001/Mech_Interp_exp/blob/main/logbook.md) file, which will always be kept upto date.
