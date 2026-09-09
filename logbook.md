@@ -1,7 +1,12 @@
 # Logbook
 
-mech-interp/
-├── README.md                  # the index — table of every topic, status, one-line takeaway
+This contains the current format of files in this repository.
+
+<br>
+
+```
+Mech_Interp_exp/
+├── README.md
 ├── Preliminaries/
     ├── Embeddings/
     │   ├── notes.md
@@ -23,3 +28,4 @@ mech-interp/
     │   ├── notes.md
     │   ├── experiments/
     │   └── results/
+```
